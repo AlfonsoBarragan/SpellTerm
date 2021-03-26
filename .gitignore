@@ -1,5 +1,12 @@
 # Swap files
-
 *~
+
+# C files
 *.o
+
+# Text files
 TODO
+
+# Pathces folder
+patches/
+
